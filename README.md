@@ -42,7 +42,8 @@ You must set the settings of where you client folder is and the folder where you
 
 ## Screnshots
 
-ToolBar 
+ToolBar Screen Shot:
+
 ![Toolbar](./media/ExtensionSS.png)
 
 Settings:
