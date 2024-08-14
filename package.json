@@ -3,6 +3,10 @@
   "displayName": "Kinetic Classic Customization Helper",
   "description": "Allows you to view and edit your Epicor Kinetic Classic Customizations in VS Code",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josegomez/epicor-classic-customization-helper.git"
+  },
   "author": {
     "name": "Jose C Gomez",
     "email": "me@josecgomez.dev"
@@ -26,8 +30,8 @@
       "activitybar": [
         {
           "id": "epiUsersCustomView",
-          "title": "EpiUsers Kinetic Custmization Helper",
-          "icon": "media/Epiuser.svg"
+          "title": "EpiUsers Kinetic Customization Helper",
+          "icon": "media/Epiuser.png"
         }
       ]
     },
@@ -35,7 +39,7 @@
       "epiUsersCustomView": [
         {
           "id": "epiUsersCustomViewPanel",
-          "name": "EpiUsers Kinetic Custmization Helper",
+          "name": "EpiUsers Kinetic Customization Helper",
           "type": "webview"
         }
       ]

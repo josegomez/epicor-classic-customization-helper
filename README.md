@@ -10,7 +10,7 @@ This project is a helper tool for working with Epicor Classic Customizations.
 - Uploading: Allows you to upload modified Classic Customization files back to the Epicor server.
 
 ## Requirements:
-You must download a helper library that is compatible with your version of Epicor:
+You must download a helper library that is compatible with your version of Epicor and extract it into your Client folder:
 
 [10.1.500.X](https://github.com/josegomez/Epicor_Editor_Helper_Library_Binaries/raw/master/CustomizationHelper.10.1.500.X.zip)
 [10.1.600.X](https://github.com/josegomez/Epicor_Editor_Helper_Library_Binaries/raw/master/CustomizationHelper.10.1.600.X.zip)
