@@ -2,7 +2,8 @@
   "name": "epicor-classic-customization-helper",
   "displayName": "Kinetic Classic Customization Helper",
   "description": "Allows you to view and edit your Epicor Kinetic Classic Customizations in VS Code",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "icon": "media/Epiuser.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/josegomez/epicor-classic-customization-helper.git"

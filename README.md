@@ -13,17 +13,37 @@ This project is a helper tool for working with Epicor Classic Customizations.
 You must download a helper library that is compatible with your version of Epicor and extract it into your Client folder:
 
 [10.1.500.X](https://github.com/josegomez/Epicor_Editor_Helper_Library_Binaries/raw/master/CustomizationHelper.10.1.500.X.zip)
+
 [10.1.600.X](https://github.com/josegomez/Epicor_Editor_Helper_Library_Binaries/raw/master/CustomizationHelper.10.1.600.X.zip)
+
 [10.2.100.X](https://github.com/josegomez/Epicor_Editor_Helper_Library_Binaries/raw/master/CustomizationHelper.10.2.100.X.zip)
+
 [10.2.200.X](https://github.com/josegomez/Epicor_Editor_Helper_Library_Binaries/raw/master/CustomizationHelper.10.2.200.X.zip)
+
 [10.2.300.X](https://github.com/josegomez/Epicor_Editor_Helper_Library_Binaries/raw/master/CustomizationHelper.10.2.300.X.zip)
+
 [10.2.400.X](https://github.com/josegomez/Epicor_Editor_Helper_Library_Binaries/raw/master/CustomizationHelper.10.2.400.X.zip)
+
 [10.2.500.X](https://github.com/josegomez/Epicor_Editor_Helper_Library_Binaries/raw/master/CustomizationHelper.10.2.500.X.zip)
+
 [10.2.600.X](https://github.com/josegomez/Epicor_Editor_Helper_Library_Binaries/raw/master/CustomizationHelper.10.2.600.X.zip)
+
 [10.2.700.X](https://github.com/josegomez/Epicor_Editor_Helper_Library_Binaries/raw/master/CustomizationHelper.10.2.700.X.zip)
+
 [2021.1.X](https://github.com/josegomez/Epicor_Editor_Helper_Library_Binaries/raw/master/CustomizationHelper.2021.1.X.zip)
+
 [2021.2.X](https://github.com/josegomez/Epicor_Editor_Helper_Library_Binaries/raw/master/CustomizationHelper.2021.2.X.zip)
+
 [2022.2.X](https://github.com/josegomez/Epicor_Editor_Helper_Library_Binaries/raw/master/CustomizationHelper.2022.2.X.zip)
+
 [2023.1.X](https://github.com/josegomez/Epicor_Editor_Helper_Library_Binaries/raw/master/CustomizationHelper.2023.1.X.zip)
 
+You must set the settings of where you client folder is and the folder where you'd like your customizations downloaded to.
+
 ## Screnshots
+
+ToolBar 
+![Toolbar](./media/ExtensionSS.png)
+
+Settings:
+![Settings](./media/Settings.png)
